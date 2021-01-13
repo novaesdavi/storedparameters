@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "P249BcpwGnfoHVOdDtZwaLzTFLAp/D+/heJubX+hMlVP1eSZcs5GSYhoUDvvqHuQ+R7gaFVis9uvVqQosSU+Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dnova\\source\\repos\\StoreParametersTest\\StoreParametersTest\\StoreParametersTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dnova\\.nuget\\packages\\amazon.extensions.configuration.systemsmanager\\2.0.0\\amazon.extensions.configuration.systemsmanager.2.0.0.nupkg.sha512",
+    "C:\\Users\\dnova\\.nuget\\packages\\awssdk.core\\3.5.1.6\\awssdk.core.3.5.1.6.nupkg.sha512",
+    "C:\\Users\\dnova\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.3.101\\awssdk.extensions.netcore.setup.3.3.101.nupkg.sha512",
+    "C:\\Users\\dnova\\.nuget\\packages\\awssdk.simplesystemsmanagement\\3.5.1.7\\awssdk.simplesystemsmanagement.3.5.1.7.nupkg.sha512",
+    "C:\\Users\\dnova\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.2\\microsoft.extensions.configuration.2.0.2.nupkg.sha512",
+    "C:\\Users\\dnova\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.2\\microsoft.extensions.configuration.abstractions.2.0.2.nupkg.sha512",
+    "C:\\Users\\dnova\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\dnova\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\dnova\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\dnova\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\dnova\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
